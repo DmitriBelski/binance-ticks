@@ -16,3 +16,11 @@ $ npm run start
 # generate static project
 $ npm run generate
 ```
+https://binance-ticks.herokuapp.com
+
+heroku login
+git init  
+heroku git:remote -a nuxt-ssr-bblog
+git add 
+git commit -am "first deploy"
+git push heroku master
